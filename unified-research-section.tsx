@@ -26,10 +26,7 @@ export function UnifiedResearchSection() {
       period: "2020 – Present",
       advisor: "Dave Besson",
       achievements: [
-        "Designed and implemented detector calibration algorithms for the Radar Echo Telescope",
-        "Investigated cosmological constraints on photomeson suppression in UHE cosmic ray interactions",
-        "Developed novel numerical solutions for Time of Arrival (ToA) and Time Difference of Arrival (TDoA) multilateration",
-        "Created efficient Monte Carlo radiation transport code for modeling radio-frequency noise propagation"
+        "Did things"
       ],
       institutionLogo: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=50&h=50&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
     },
